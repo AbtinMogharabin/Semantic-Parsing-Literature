@@ -1,7 +1,7 @@
 # Semantic-Parsing-Literature
 Some of my favorite literature on Semantic Parsing. I categoried the papers into 3 groups:
 - Parsing (Selecting the Grammr Formalism and Inference Procedure)
-- Learning (Selecting the type of supervision that could be usd)
+- Learning (Selecting the type of supervision that could be used)
 - Modeling (Selecting the logical language to use and the way to model ‘meaning’)
 
 ### 1.	Parsing
